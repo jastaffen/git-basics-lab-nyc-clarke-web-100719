@@ -117,7 +117,7 @@ back in the `git-basics-lab` folder before running `learn`.
    (`git remote add origin...`) and run in your command line to connect your
    local repository with the new remote one.
 
-8. Push up your local work to the remote.
+8. Push up your local woro the remote.
 
 After you've completed all the steps, run `learn` to confirm all tests are
 passing. If some of the tests fail, follow the messages provided by each failing
@@ -147,5 +147,3 @@ your personal GitHub account.
 [pr]: https://help.github.com/en/articles/about-pull-requests
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/git-remotes-and-github-lab' title='Git Remotes + GitHub Lab'>Git Remotes + GitHub Code-Along</a> on Learn.co and start learning to code for free.</p>
-
-
